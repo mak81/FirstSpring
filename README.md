@@ -1,5 +1,5 @@
 
-FirstSpring microservice
+FirstSpring microservice - Feature
 ===========================
 
 Originally created on 2016-10-15.
